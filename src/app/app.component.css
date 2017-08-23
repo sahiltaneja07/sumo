@@ -1,0 +1,63 @@
+.dialog {
+    width: 600px;
+    margin: 200px auto;
+    background-color: #F9F8F8;
+    padding: 30px 20px;
+}
+
+.dialog-header {
+    color: #64B4E9;
+}
+
+.dialog-header h1 {
+    margin-top: 0px;
+}
+
+.team-label h4{
+    margin-bottom: 5px;
+}
+
+.input-dropdown {
+    border: none;
+    background-color: #DDDDDD;
+    width: 98%;
+    height: 40px;
+    padding-left: 2%;
+}
+
+.input-parent {
+    margin-bottom: 20px;
+}
+
+.clear-float {
+    clear: both;
+}
+
+.dialog-btns {
+    float: right;
+}
+
+.input-dropdown-wrapper{
+    position: relative;
+}
+
+.suggestion-box {
+    width: 100%;
+    background-color: #ffffff;
+}
+
+.suggestion-box ul {
+    padding-left: 20px;
+    padding-top: 10px;
+    margin: 0px;
+}
+
+.suggestion-box ul li {
+    cursor: pointer;
+    list-style: none;
+    padding-bottom: 10px;
+}
+
+.bg-white {
+    background-color: #ffffff;
+}
